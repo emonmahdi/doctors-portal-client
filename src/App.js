@@ -18,9 +18,9 @@ function App() {
         <Switch>
             <Route path="/home">
               <Home />
-            </Route>  
+            </Route>   
             <Route path="/appointment">
-              <Appointment />
+              <Appointment /> 
             </Route>  
             <Route path="/">
               <Home />
